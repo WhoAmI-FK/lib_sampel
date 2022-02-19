@@ -1,2 +1,2 @@
-# lib_sampel
+# lib_sample
 Laravel, HTML/CSS/JS/JQUERY/SASS/BOOTSTRAP/PHP
