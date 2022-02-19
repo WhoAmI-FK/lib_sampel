@@ -1,0 +1,2 @@
+# lib_sampel
+Laravel, HTML/CSS/JS/JQUERY/SASS/BOOTSTRAP/PHP
